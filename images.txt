@@ -1,1 +1,1 @@
-tiangolo/nginx-rtmp/
+tiangolo/nginx-rtmp
